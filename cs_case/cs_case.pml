@@ -7,7 +7,7 @@
     <Dialogs />
     <Resources>
         <File name="data" src="behavior_1/data.json" />
-        <File name="BIP" src="behavior_1/BIP.mp3" />
+        <File name="Beep18" src="behavior_1/Beep18.wav" />
     </Resources>
     <Topics />
     <IgnoredPaths />
